@@ -1,0 +1,4 @@
+stock.sqlite3
+__pycache__/
+*.pyc
+preview.png
